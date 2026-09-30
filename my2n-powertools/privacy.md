@@ -29,7 +29,7 @@ and devices are loaded from and saved to your My2N account (`my2n.com`), and
 only through your own signed-in session. The app only shows and changes what
 your My2N account is already allowed to access on my2n.com. That data is
 processed by 2N Telekomunikace a.s. under
-[their privacy policy](https://www.2n.com), not by
+[their privacy policy](https://my2n.com/legal), not by
 this app's developer.
 
 ## Local network and devices
